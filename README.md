@@ -1,5 +1,6 @@
 iTuny
 =====
+<b>v 0.5</b>
 
 Source Code for iTuny a launchy companion that allows you to control iTunes.
 This app was made with AutoIt 3, the installer interface was made with AutoIt GUI.
@@ -7,17 +8,16 @@ This app was made with AutoIt 3, the installer interface was made with AutoIt GU
 Was developed under Windows XP, works on Windows 7 but it needs administrator access to be able to access iTunes.
 It needs some work to be used cleanly under Windows 7.
 
---
+---
 
 This AutoIt is free to distribute and modify to make it better.
 Created   		by f0vela
 Collaboration 		by jarethbone
 Inspired 		by Amadawn's iTuny implementation
 
-To use it with Launchy just double click the exe and the installer will popout
-install in the desired location.
-
-Rebuild Launchy's index and you're done.
+To use it with Launchy just double click the exe and the installer will popout.
+	Install in the desired location.
+	Rebuild Launchy's index and you're done.
 
 After install call Launchy and just type: 
 
