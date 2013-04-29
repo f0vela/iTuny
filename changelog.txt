@@ -1,0 +1,79 @@
+--------------------------------------------------------------------------------------------
+
+
+CHANGELOG 
+updated July 30, 2008
+iTuny
+
+
+--------------------------------------------------------------------------------------------
+Version 0.5:
+--------------------------------------------------------------------------------------------
++ FILES:
+---------
+	* iTuny.ini
+	* Splitted the main source file (one for functions, the other with the app)
+	* Snarl_CMD.exe (from http://tlhan-ghun.de)
+NEW:
+---------
+    	* Configuration window
+    	* About section
+    	* Better help on some error messages
+    	* Configurable Window and tooltip delay time
+    	* iTuny INI file where all the configurations are kept
+    	* Display a visual aid on the rate tooltip to see what rate has been set
+    	* iTuny Query now searches on all the library this means podcasts, audiobooks, etc…
+    	* Twitter and Pownce support to post your current song
+	* 3 new commands iTunes Config, iTunes Twitter, iTunes Pownce
+	* Snarl support thanks to Snarl_CMD.exe
+	* Party shuffle function
+		iTunes Party (to start)
+		iTunes Party | off (to stop it and go to the main library)
+
+FIXES:
+---------
+    	* Query function not working
+    	* Shuffle function giving an error
+
+--------------------------------------------------------------------------------------------
+Version 0.4:
+--------------------------------------------------------------------------------------------
++ FILES:
+---------
+	* NA.jpg
+NEW:
+---------
+	* PrevAlbum and NextAlbum thanks to jarethbone for the code
+	* Artwork on the Track info window
+	* Move iTunes info function that has the old track tooltip mode.
+	* New iTunes Tag function to allow you to tag on advance mode your current song
+FIXES:
+---------
+	* Problem with Main Music playlist (Musik) in German . Reported by Lakriz
+	* Problems with the installer, in some cases it wouldn’t create the links correctly.
+--------------------------------------------------------------------------------------------
+Version 0.3:
+--------------------------------------------------------------------------------------------
+NEW:
+---------
+	* Changed the code to AutoIt v0.3
+	* Installation GUI (Beta)
+	* Create Playlists
+	* Add current song to a Playlist
+FIXES:
+---------
+	* Prev Bug fixed
+
+--------------------------------------------------------------------------------------------
+Version 0.2 and 0.1 (VBScript versions)
+--------------------------------------------------------------------------------------------
+FEATURES:
+---------
+	* Search Songs
+	* Rate Songs
+	* More Info from the current song, including Rate, Play Count, Song Length
+	* Toggle MiniPlayer
+	* Toggle Visualizations
+	* Toggle EQ Window
+	* Search a playlist
+
