@@ -11,11 +11,13 @@ It needs some work to be used cleanly under Windows 7.
 ---
 
 This AutoIt is free to distribute and modify to make it better.
-Created   		by f0vela
-Collaboration 		by jarethbone
-Inspired 		by Amadawn's iTuny implementation
+
+	Created			by f0vela
+	Collaboration 		by jarethbone
+	Inspired 		by Amadawn's iTuny implementation
 
 To use it with Launchy just double click the exe and the installer will popout.
+
 	Install in the desired location.
 	Rebuild Launchy's index and you're done.
 
