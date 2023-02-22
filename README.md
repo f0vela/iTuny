@@ -1,6 +1,6 @@
 iTuny
 =====
-<b>This project has been discontinued</b>
+<b>*** This project has been discontinued ***</b>
 
 <b>v 0.5</b>
 
