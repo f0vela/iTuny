@@ -1,5 +1,7 @@
 iTuny
 =====
+<b>This project has been discontinued</b>
+
 <b>v 0.5</b>
 
 Source Code for iTuny a launchy companion that allows you to control iTunes.
